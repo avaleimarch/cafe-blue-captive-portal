@@ -60,4 +60,5 @@ Works in all modern browsers (Chrome, Firefox, Safari, Edge). No build step or d
 
 
 
-<img width="670" height="743" alt="Screenshot 2026-03-30 at 5 00 36 PM" src="https://github.com/user-attachments/assets/0ed2bef0-b317-4a2a-84e9-ba5a164cd897" />
+
+<img width="569" height="732" alt="Screenshot 2026-03-30 at 5 06 35 PM" src="https://github.com/user-attachments/assets/1d66aacf-6aa4-459d-a7b3-f54d6072efcf" />
