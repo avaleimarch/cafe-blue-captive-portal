@@ -15,6 +15,9 @@ A branded captive portal for Cafe Blue's guest WiFi network. Restricts access to
 
 ---
 
+## Files
+
+| File | Description |
 |------|-------------|
 | `cafe-blue-portal.html` | The complete single-file captive portal (HTML, CSS, JS) |
 | `README.md` | This file |
