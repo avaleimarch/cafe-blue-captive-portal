@@ -57,3 +57,5 @@ This portal is a front-end only file. For production use, the following backend 
 ## Browser Support
 
 Works in all modern browsers (Chrome, Firefox, Safari, Edge). No build step or dependencies required — single `.html` file, ready to deploy.
+<img width="671" height="741" alt="Screenshot 2026-03-30 at 4 21 50 PM" src="https://github.com/user-attachments/assets/f1df89db-baa9-40c8-b8eb-617695ffa9c7" />
+
