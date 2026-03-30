@@ -2,7 +2,6 @@
 
 A branded captive portal for Cafe Blue's guest WiFi network. Restricts access to business hours and requires proof of purchase via receipt number.
 
----
 
 ## Features
 
@@ -13,7 +12,6 @@ A branded captive portal for Cafe Blue's guest WiFi network. Restricts access to
 - **Client-side validation** — All fields are validated before submission with inline error messages.
 - **Success screen** — Confirms the guest's name and session expiry time upon successful sign-in.
 
----
 
 ## Files
 
@@ -22,7 +20,6 @@ A branded captive portal for Cafe Blue's guest WiFi network. Restricts access to
 | `cafe-blue-portal.html` | The complete single-file captive portal (HTML, CSS, JS) |
 | `README.md` | This file |
 
----
 
 ## How It Works
 
@@ -32,7 +29,6 @@ A branded captive portal for Cafe Blue's guest WiFi network. Restricts access to
 4. Guest enters their receipt number, name, and email, then submits.
 5. On success, a confirmation screen is shown and the guest is granted network access.
 
----
 
 ## Deployment Notes
 
@@ -47,7 +43,6 @@ This portal is a front-end only file. For production use, the following backend 
 - Serve this file from your router's built-in captive portal hosting, or from a local web server on the same network.
 - No external dependencies are required at runtime except for the Google Fonts stylesheet (loaded via CDN). For fully offline use, embed the fonts locally.
 
----
 
 ## Customisation
 
@@ -58,12 +53,7 @@ This portal is a front-end only file. For production use, the following backend 
 | Receipt hint text | `field-hint` paragraph beneath the receipt input |
 | Success redirect URL | Replace the `setTimeout` block in the submit handler with a `window.location` redirect |
 
----
 
 ## Browser Support
 
 Works in all modern browsers (Chrome, Firefox, Safari, Edge). No build step or dependencies required — single `.html` file, ready to deploy.
-
----
-
-*Cafe Blue · Guest Network · © All rights reserved*
