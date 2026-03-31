@@ -1,7 +1,7 @@
 # Cafe Blue — Guest WiFi Captive Portal
 
 A branded captive portal is proposed for Cafe Blue’s guest Wi-Fi network that would restrict internet access to business hours and require customers to enter a receipt number as proof of purchase. This solution would authenticate guests using their receipt number, eliminating the need for staff to print, manage, and distribute daily Wi-Fi codes.
-
+The system could also collect email addresses for marketing and promotions.
 ## Features
 
 - **Time-gated access** — Form is only available between 7:00 AM and 7:30 PM. Outside these hours, guests see a closed notice.
